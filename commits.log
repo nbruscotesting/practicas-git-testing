@@ -1,0 +1,98 @@
+commit 9bba035e1681e6100e2cb77d152273e9817ded0b
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 13:22:53 2023 -0300
+
+    Agrego 2 parrafos
+
+commit 838c46aef129eb380916781524d536537f12e5b6
+Merge: f6de31d 9dc73e4
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 13:06:15 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit f6de31db2b310eee208acae9388d9a500942810b
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 12:56:22 2023 -0300
+
+    Agregando estaciones del año con fechas
+
+commit 9dc73e445379b7e5500ab9960f4c8ec9ce4b43bc
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 12:56:22 2023 -0300
+
+    agrego estaciones del año
+
+commit d24f99e7b41a680be429aedc37d2d0911a48120e
+Merge: 3973bc0 c9893ad
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 12:33:26 2023 -0300
+
+    Resolviendo conflicto merge main/html en index.html
+
+commit c9893adc5066dd7248767a351711ece449b5e25c
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 12:06:10 2023 -0300
+
+    add index.js a index.html
+
+commit 3973bc0edb8aaf5b5f37d4e2e295acf4288b14c8
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Tue May 16 12:04:31 2023 -0300
+
+    add style.css to index.html
+
+commit f93e8c468ebd0c37243ae0f40604bf4ea8ee650d
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 19:24:45 2023 -0300
+
+    woops
+
+commit d0e3f052dfecac0d2bde24dc0b0e8a37223decbc
+Merge: 23a1e91 7905d8c
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 19:23:02 2023 -0300
+
+    Merge branch 'js'
+
+commit 7905d8c27cf3f62e93abd6fd8516e5731463ca8f
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 19:19:37 2023 -0300
+
+    create index.js
+
+commit 23a1e91513639445e163d3144aebc52a4231dcc8
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 19:04:34 2023 -0300
+
+    create styles.css
+
+commit 9e7d9ec09b199f688c41a8d5fed38a43b15989f5
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 19:01:25 2023 -0300
+
+    create index.html
+
+commit 4aacd75cadaf32e5480d5741ee419b349dd2df9b
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 18:53:29 2023 -0300
+
+    prueba gitignore
+
+commit d41260b50645baf678d5d342186956d4ad45fc28
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 18:45:20 2023 -0300
+
+    Creo licencia del repositorio
+
+commit 6a9665fcf34866157a443351bde0f11b069cc345
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 18:36:56 2023 -0300
+
+    Segundo commit
+
+commit 3f93f5c8f72d4f5e115037097fd2db7557de5b63
+Author: Nicolas Brusco <nicolasbrusco@hotmail.com>
+Date:   Mon May 15 18:27:47 2023 -0300
+
+    Primer commit :)
